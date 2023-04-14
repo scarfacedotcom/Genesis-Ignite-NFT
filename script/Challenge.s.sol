@@ -2,7 +2,7 @@
 pragma solidity ^0.8.18;
 
 import "forge-std/Script.sol";
-import "../src/Solution.sol";
+import "../src/Counter.sol";
 
 contract ChallengeScript is Script {
 

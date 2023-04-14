@@ -1,0 +1,29 @@
+{
+    "name": "Genesis Ignite",
+    "description": "Genesis Ignite is a revolutionary token launchpad DApp that empowers users to participate in presales and launchpads using our native token. Our platform features an integrated swapping platform that allows users to convert other popular tokens to our native token in a gasless transaction format, making the platform more accessible to a wider audience.But that's not all! Our platform also features a unique NFT issuance system that rewards users based on their level of activeness and trade volume on the platform. These NFTs serve as a tangible representation of a user's contribution and are authenticated on the blockchain, making them rare and valuable digital assets.With our gamified experience, users are incentivized to actively participate in our platform and earn these coveted NFTs. Don't miss out on this opportunity to be a part of the future of crypto trading and collect unique NFTs that showcase your dedication and success on our platform.",
+    "external_url": "https://genesisignite.com",
+    "image": "https://ipfs.io/ipfs/QmSbNxBGzYbmzBk2NpsqgHEoiZ5rk1XL9W8w56DPUuCLAv",
+    "attributes": [
+        {
+            "trait_type": "Platform",
+            "value": "Ethereum"
+        },
+        {
+            "trait_type": "Token Type",
+            "value": "ERC-20"
+        },
+        {
+            "trait_type": "Feature",
+            "value": "Integrated swapping platform"
+        },
+        {
+            "trait_type": "Feature",
+            "value": "P2P exchange system"
+        },
+        {
+            "trait_type": "Feature",
+            "value": "NFT rewards for users"
+        }
+    ]
+}
+//"https://ipfs.io/ipfs/QmVt9ww7CkwjjrbekK4XSrXqNGXEHXp1sJT8t9sUchcpi8"
